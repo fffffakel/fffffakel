@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Anton</a> <a href="https://t.me/ffffakel" target="_blank">                                
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegrammlogo"  />
+  </a>
 
-<!--
-**fffffakel/fffffakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
+<h3 align="center">I study at NSU and learn ML and DL 💤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<h2 align="center">My Stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fffffakel&theme=tokyonight)           
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fffffakel&theme=tokyonight)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fffffakel&theme=tokyonight)
+
+###
+---
+<div align="center">
+<img src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif" alt="Alt text" width="700" />
+</div>
