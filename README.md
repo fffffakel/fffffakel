@@ -15,5 +15,5 @@
 ###
 ---
 <div align="center">
-<img src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif" alt="Alt text" width="700" />
+<img src="https://media1.tenor.com/m/Z6gmDPeM6dgAAAAC/dance-moves.gif" alt="Alt text" width="500" />
 </div>
